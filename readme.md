@@ -1,3 +1,5 @@
+### SETUP SOLR:
+
 1. download SOLR (http://lucene.apache.org/solr/downloads.html)
     - install JDK
 2. start SOLR Server
@@ -10,3 +12,5 @@
 see :
 https://www.sitepoint.com/using-solarium-solr-search-setup/
 
+### Setup Laravel:
+you can find it on windows or linux
