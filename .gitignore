@@ -2,6 +2,7 @@
 /solr-6.4.2
 /public/storage
 /public/hot
+/storage
 /storage/*.key
 /vendor
 /.idea
